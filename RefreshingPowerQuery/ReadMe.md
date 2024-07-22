@@ -1,6 +1,6 @@
 **Refreshing Power Queries for Excel Online without the need for Excel Desktop!**
 
-YouTube video: 
+YouTube video: https://youtu.be/L8pXgTV8hOE
 In this demo I show you how you can have a table of data connected to dataverse refreshing in Excel online. That is, without the need for it to be opened in Excel for Desktop. 
 If you have a workbook shared amongst many people all through the day and night you will find there are data conflicts between the users which becomes especially obvious when the workbook is opened in desktop. Sometimes data is lost. Occasionally and not that infrequently the workbook crashes or breaks entirely. The workbook becoming corrupted and unrecoverable.  Keeping the workbook online minimizes these sharing problems. Currently Microsoft does not provide for refreshing of power queries in online mode only. In this video I show how you can still use power queries while keeping the workbook online only. The secret is to use Dataflows! 
 I achieve this by using Power Automate to write the data to Excel using the Excel actions. The power query side of this process is done by Dataflow. Dataflow is the online version of Power Query. 
